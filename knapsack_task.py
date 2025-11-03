@@ -1,4 +1,4 @@
-mport matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import pandas as pd
 
 def fractional_knapsack(capacity, items):
